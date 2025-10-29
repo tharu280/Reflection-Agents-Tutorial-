@@ -20,7 +20,7 @@ And yet, that’s exactly how most AI generation still works.
 What if we didn’t stop there?  
 What if we let models work like human writers , starting with an outline, drafting, reflecting, critiquing, and refining?
 
-That’s the idea behind **Reflection Agents**  a pattern where AI models generate, evaluate, and improve their own outputs in a **self-driven feedback loop**.
+That’s the idea behind **Reflection Agents**  a pattern where AI models generate, evaluate, and improve their own outputs in a **self driven feedback loop**.
 
 ---
 
@@ -72,12 +72,12 @@ The result is a **self-improving agent** ,one that learns from its past outputs 
 ## 🔬 Why This Matters
 
 Reflection transforms AI from a **reactive tool** into a **proactive learner**.  
-Instead of answering once and stopping, the agent learns from each iteration — becoming more aligned, coherent, and trustworthy.
+Instead of answering once and stopping, the agent learns from each iteration  becoming more aligned, coherent, and trustworthy.
 
 It’s the same logic that underpins human learning, the scientific method, and debugging:  
 > Try → Reflect → Improve.
 
-This pattern doesn’t just make models better writers — it makes them **better thinkers**.
+This pattern doesn’t just make models better writers , it makes them **better thinkers**.
 
 ---
 
@@ -89,7 +89,7 @@ Reflection Agents form the foundation of more complex agentic systems, including
 - 🛠️ **Tool-Using Agents** – call APIs or external resources as needed.  
 - 👥 **Collaborative Agents** – communicate and negotiate with other models.  
 
-Together, these patterns form the backbone of modern **Agentic Design** —  
+Together, these patterns form the backbone of modern **Agentic Design**  
 the movement toward AI systems that can reason, act, and adapt.
 
 ---
@@ -103,7 +103,7 @@ It’s a simple agent that:
 - 🧩 Critiques its own work  
 - 🔁 Refines it through multiple iterations  
 
-This is just the starting point — a sandbox to explore how **AI self-improvement loops** work under the hood.
+This is just the starting point , a sandbox to explore how **AI self improvement loops** work under the hood.
 
 ---
 
@@ -112,7 +112,7 @@ This is just the starting point — a sandbox to explore how **AI self-improveme
 I’ve also made a video walking through everything , from the **theory to the implementation**.  
 🎥 [YouTube link coming soon]
 
-If you’re curious about **Planning Agents**, **Tool-Using Agents**, and **Multi-Agent Systems**, stay tuned — they’ll be covered in future episodes.
+If you’re curious about **Planning Agents**, **Tool-Using Agents**, and **Multi Agent Systems**, stay tuned  they’ll be covered in future episodes.
 
 ---
 
@@ -125,6 +125,6 @@ If you’re curious about **Planning Agents**, **Tool-Using Agents**, and **Mult
 ---
 
 ### 🧾 License
-This project is open-source under the MIT License.  
-Feel free to fork it, experiment with it, and build your own reflection-style AI agents!
+This project is open source under the MIT License.  
+Feel free to fork it, experiment with it, and build your own reflection style AI agents!
 
