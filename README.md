@@ -1,17 +1,17 @@
 # 🪞 Reflection-Agents-Tutorial
 
-**Learn how to build a reflection-style AI agent that writes, critiques, and improves essays using Gemini.**
+**Learn how to build a reflection style AI agent that writes, critiques, and improves essays using Gemini.**
 
 ---
 
-## 🪞 Reflection Agents – Moving Beyond Single-Pass AI
+## 🪞 Reflection Agents , Moving Beyond Single-Pass AI
 
 ![Reflection Overview](./s1.png)
 
 Over the last couple of years, AI models haven’t just been getting *smarter* — they’ve been learning to work as part of larger, more intelligent systems.  
 That’s where **Agentic Design Patterns** come in.
 
-Think of them as architectural blueprints — guiding how agents, tools, and workflows come together to build scalable, adaptive, and self-improving AI systems.  
+Think of them as architectural blueprints ,guiding how agents, tools, and workflows come together to build scalable, adaptive, and self improving AI systems.  
 If you’re getting into AI, this is a trend worth paying attention to.
 
 ---
@@ -21,14 +21,14 @@ If you’re getting into AI, this is a trend worth paying attention to.
 Right now, most of us use models like ChatGPT or Gemini in what’s called **zero-shot mode** —  
 we give them a single prompt and expect a perfect answer in one go.
 
-But imagine asking a human to write a full essay without planning, revising, or even using backspace — just one perfect attempt.  
+But imagine asking a human to write a full essay without planning, revising, or even using backspace ,  just one perfect attempt.  
 Sounds unrealistic, right?  
 And yet, that’s exactly how most AI generation still works.
 
 What if we didn’t stop there?  
-What if we let models work like human writers — starting with an outline, drafting, reflecting, critiquing, and refining?
+What if we let models work like human writers , starting with an outline, drafting, reflecting, critiquing, and refining?
 
-That’s the idea behind **Reflection Agents** — a pattern where AI models generate, evaluate, and improve their own outputs in a **self-driven feedback loop**.
+That’s the idea behind **Reflection Agents**  a pattern where AI models generate, evaluate, and improve their own outputs in a **self-driven feedback loop**.
 
 ---
 
@@ -45,7 +45,7 @@ The **Reflection Pattern** is one of the four core **Agent Design Patterns** des
 Each of these patterns helps us structure intelligent workflows where AI acts more like a **team of thinkers** than a one-shot oracle.
 
 The Reflection Pattern, specifically, gives the AI the ability to **analyze and refine its own reasoning or writing**.  
-It’s a form of **self-critique** — allowing the model to loop through **generate → reflect → refine** cycles until it reaches a stronger result.
+It’s a form of **self-critique** ,  allowing the model to loop through **generate → reflect → refine** cycles until it reaches a stronger result.
 
 ---
 
@@ -56,7 +56,7 @@ Let’s visualize it 👇
 ![Reflection Loop](./s3.png)
 
 ### 🧩 Generate Block
-The user gives a prompt — for example, *“Write an essay on renewable energy.”*  
+The user gives a prompt , for example, *“Write an essay on renewable energy.”*  
 The model produces the **first draft**.
 
 ### 💭 Reflect Block
@@ -73,7 +73,7 @@ Each iteration produces a more refined version.
 You can stop after a fixed number of iterations, or even add a condition like:  
 > “Exit when the reflection block says the result is good enough.”
 
-The result is a **self-improving agent** — one that learns from its past outputs just like a human revising their work.
+The result is a **self-improving agent** ,one that learns from its past outputs just like a human revising their work.
 
 ---
 
@@ -117,7 +117,7 @@ This is just the starting point — a sandbox to explore how **AI self-improveme
 
 ## 📺 Watch the Tutorial
 
-I’ve also made a video walking through everything — from the **theory to the implementation**.  
+I’ve also made a video walking through everything , from the **theory to the implementation**.  
 🎥 [YouTube link coming soon]
 
 If you’re curious about **Planning Agents**, **Tool-Using Agents**, and **Multi-Agent Systems**, stay tuned — they’ll be covered in future episodes.
