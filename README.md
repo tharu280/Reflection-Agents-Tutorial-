@@ -8,17 +8,9 @@
 
 ![Reflection Overview](./s1.png)
 
-Over the last couple of years, AI models haven’t just been getting *smarter* — they’ve been learning to work as part of larger, more intelligent systems.  
-That’s where **Agentic Design Patterns** come in.
-
-Think of them as architectural blueprints ,guiding how agents, tools, and workflows come together to build scalable, adaptive, and self improving AI systems.  
-If you’re getting into AI, this is a trend worth paying attention to.
-
----
-
 ## 💭 Why Reflection Matters
 
-Right now, most of us use models like ChatGPT or Gemini in what’s called **zero-shot mode** —  
+Right now, most of us use models like ChatGPT or Gemini in what’s called **zero-shot mode**   
 we give them a single prompt and expect a perfect answer in one go.
 
 But imagine asking a human to write a full essay without planning, revising, or even using backspace ,  just one perfect attempt.  
@@ -65,7 +57,7 @@ It reviews the essay, points out flaws, suggests improvements, and returns struc
 
 ### ✍️ Refine Block
 The feedback is then passed back to the **writer role**.  
-Using the critique, the model rewrites and improves its essay — making it clearer, more accurate, and more engaging.
+Using the critique, the model rewrites and improves its essay  making it clearer, more accurate, and more engaging.
 
 ### 🔁 Repeat the Cycle
 This loop can run multiple times.  
