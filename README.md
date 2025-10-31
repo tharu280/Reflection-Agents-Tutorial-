@@ -8,7 +8,7 @@
 
 ## 📺 Watch the Tutorial
 I’ve also made a video walking through everything , from the **theory to the implementation**.  
-🎥 [YouTube link coming soon]
+🎥 https://www.linkedin.com/posts/tharushika-abedheera-3396311a4_ai-machinelearning-agents-activity-7390137862027005952-iI2u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_Kg50BnjbR5xO7unO3rKyCnc0-DFK9CqE
 
 ![Reflection Overview](./s1.png)
 
