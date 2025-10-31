@@ -6,6 +6,10 @@
 
 ## 🪞 Reflection Agents , Moving Beyond Single-Pass AI
 
+## 📺 Watch the Tutorial
+I’ve also made a video walking through everything , from the **theory to the implementation**.  
+🎥 [YouTube link coming soon]
+
 ![Reflection Overview](./s1.png)
 
 ## 💭 Why Reflection Matters
@@ -107,10 +111,6 @@ This is just the starting point , a sandbox to explore how **AI self improvement
 
 ---
 
-## 📺 Watch the Tutorial
-
-I’ve also made a video walking through everything , from the **theory to the implementation**.  
-🎥 [YouTube link coming soon]
 
 If you’re curious about **Planning Agents**, **Tool-Using Agents**, and **Multi Agent Systems**, stay tuned  they’ll be covered in future episodes.
 
@@ -120,7 +120,6 @@ If you’re curious about **Planning Agents**, **Tool-Using Agents**, and **Mult
 
 - [DeepLearning.AI – Agentic Design Patterns](https://www.deeplearning.ai/)  
 - [Andrew Ng’s insights on Agent Workflows](https://www.deeplearning.ai/the-batch/)  
-- [Google Gemini API](https://aistudio.google.com/)  
 
 ---
 
