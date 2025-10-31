@@ -1,0 +1,4 @@
+# Tested with Python 3.10
+
+google-generativeai
+python-dotenv
